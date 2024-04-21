@@ -1,6 +1,6 @@
 Update Dockerfile
 
-FROM node:18.12.1
+FROM node:18.20.1
 
 RUN npm install -g npm@9.1.3
 
